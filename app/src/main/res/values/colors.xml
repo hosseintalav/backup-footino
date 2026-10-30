@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="footino_bg">#FF191919</color>
+    <color name="footino_splash_bg">#FF191919</color>
+    <color name="footino_gold">#FFD4AF37</color>
+    <color name="footino_status_bar">#FF191919</color>
+    <color name="footino_text_gray">#FF9E9E9E</color>
+</resources>

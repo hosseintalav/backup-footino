@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Footino" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@color/footino_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/footino_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="colorPrimary">@color/footino_gold</item>
+        <item name="colorPrimaryDark">@color/footino_bg</item>
+        <item name="colorAccent">@color/footino_gold</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>
